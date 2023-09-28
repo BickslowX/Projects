@@ -1,0 +1,41 @@
+C:\Users\Ja\source\repos\RR02\RR02\bin\Debug\RR02.exe.config
+C:\Users\Ja\source\repos\RR02\RR02\bin\Debug\RR02.exe
+C:\Users\Ja\source\repos\RR02\RR02\bin\Debug\RR02.pdb
+C:\Users\Ja\source\repos\RR02\RR02\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ja\source\repos\RR02\RR02\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ja\source\repos\RR02\RR02\obj\Debug\RR02.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\RR02\RR02\obj\Debug\RR02.csproj.CopyComplete
+C:\Users\Ja\source\repos\RR02\RR02\obj\Debug\RR02.exe
+C:\Users\Ja\source\repos\RR02\RR02\obj\Debug\RR02.pdb
+C:\Users\Ja\source\repos\RR02\RR02\obj\Debug\RR02.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\Task 2\RR02\bin\Debug\RR02.exe.config
+C:\Users\Ja\Desktop\Task 2\RR02\bin\Debug\RR02.exe
+C:\Users\Ja\Desktop\Task 2\RR02\bin\Debug\RR02.pdb
+C:\Users\Ja\Desktop\Task 2\RR02\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ja\Desktop\Task 2\RR02\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ja\Desktop\Task 2\RR02\obj\Debug\RR02.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\Task 2\RR02\obj\Debug\RR02.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\Task 2\RR02\obj\Debug\RR02.csproj.CopyComplete
+C:\Users\Ja\Desktop\Task 2\RR02\obj\Debug\RR02.exe
+C:\Users\Ja\Desktop\Task 2\RR02\obj\Debug\RR02.pdb
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\RR02.exe.config
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\RR02.exe
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\RR02.pdb
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.csproj.AssemblyReference.cache
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.csproj.SuggestedBindingRedirects.cache
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.csproj.CoreCompileInputs.cache
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.csproj.CopyComplete
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.exe
+C:\Users\leope\OneDrive\Рабочий стол\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.pdb
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\RR02.exe.config
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\RR02.exe
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\RR02.pdb
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\System.Numerics.Vectors.dll
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\bin\Debug\System.Numerics.Vectors.xml
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.csproj.AssemblyReference.cache
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.csproj.CoreCompileInputs.cache
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.csproj.CopyComplete
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.exe
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 2\RR02\obj\Debug\RR02.pdb
