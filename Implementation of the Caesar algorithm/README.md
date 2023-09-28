@@ -1,0 +1,1 @@
+Software implementation of encryption and decryption of any text information using the Caesar algorithm. The key must be selected/generated independently.
