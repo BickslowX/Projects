@@ -1,0 +1,7 @@
+C:\Users\leope\source\repos\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\leope\source\repos\Lab04\bin\Debug\Lab04.exe
+C:\Users\leope\source\repos\Lab04\bin\Debug\Lab04.pdb
+C:\Users\leope\source\repos\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\leope\source\repos\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\leope\source\repos\Lab04\obj\Debug\Lab04.exe
+C:\Users\leope\source\repos\Lab04\obj\Debug\Lab04.pdb
