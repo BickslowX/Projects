@@ -1,0 +1,49 @@
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\bin\Release\CompressPrj.exe.config
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\bin\Release\CompressPrj.exe
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\bin\Release\CompressPrj.pdb
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Release\CompressPrj.Form1.resources
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Release\CompressPrj.Properties.Resources.resources
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Release\CompressPrj.csproj.GenerateResource.cache
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Release\CompressPrj.csproj.CoreCompileInputs.cache
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Release\CompressPrj.exe
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Release\CompressPrj.pdb
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\bin\Release\CompressPrj.exe.config
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\bin\Release\CompressPrj.exe
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\bin\Release\CompressPrj.pdb
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\obj\Release\CompressPrj.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\obj\Release\CompressPrj.Form1.resources
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\obj\Release\CompressPrj.Properties.Resources.resources
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\obj\Release\CompressPrj.csproj.GenerateResource.cache
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\obj\Release\CompressPrj.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\obj\Release\CompressPrj.exe
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\CompressPrj\CompressPrj\obj\Release\CompressPrj.pdb
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\bin\Release\CompressPrj.exe.config
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\bin\Release\CompressPrj.exe
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\bin\Release\CompressPrj.pdb
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\obj\Release\CompressPrj.Form1.resources
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\obj\Release\CompressPrj.Properties.Resources.resources
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.GenerateResource.cache
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\obj\Release\CompressPrj.exe
+C:\Users\Ja\Desktop\uni\Материал\ОП\РР\Task 1\CompressPrj\obj\Release\CompressPrj.pdb
+C:\Users\Ja\Desktop\Task 1\CompressPrj\bin\Release\CompressPrj.exe.config
+C:\Users\Ja\Desktop\Task 1\CompressPrj\bin\Release\CompressPrj.exe
+C:\Users\Ja\Desktop\Task 1\CompressPrj\bin\Release\CompressPrj.pdb
+C:\Users\Ja\Desktop\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\Task 1\CompressPrj\obj\Release\CompressPrj.Form1.resources
+C:\Users\Ja\Desktop\Task 1\CompressPrj\obj\Release\CompressPrj.Properties.Resources.resources
+C:\Users\Ja\Desktop\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.GenerateResource.cache
+C:\Users\Ja\Desktop\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\Task 1\CompressPrj\obj\Release\CompressPrj.exe
+C:\Users\Ja\Desktop\Task 1\CompressPrj\obj\Release\CompressPrj.pdb
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\bin\Release\CompressPrj.exe.config
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\bin\Release\CompressPrj.exe
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\bin\Release\CompressPrj.pdb
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.AssemblyReference.cache
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\obj\Release\CompressPrj.Form1.resources
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\obj\Release\CompressPrj.Properties.Resources.resources
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.GenerateResource.cache
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\obj\Release\CompressPrj.csproj.CoreCompileInputs.cache
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\obj\Release\CompressPrj.exe
+G:\My Drive\uni\kpi\Проекты\1 семестр\оп\РР ОП\Task 1\CompressPrj\obj\Release\CompressPrj.pdb

@@ -1,0 +1,10 @@
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\bin\Debug\CompressPrj.exe.config
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\bin\Debug\CompressPrj.exe
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\bin\Debug\CompressPrj.pdb
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Debug\CompressPrj.csprojAssemblyReference.cache
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Debug\CompressPrj.Form1.resources
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Debug\CompressPrj.Properties.Resources.resources
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Debug\CompressPrj.csproj.GenerateResource.cache
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Debug\CompressPrj.csproj.CoreCompileInputs.cache
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Debug\CompressPrj.exe
+C:\Users\4labs\source\repos\CompressPrj\CompressPrj\obj\Debug\CompressPrj.pdb
