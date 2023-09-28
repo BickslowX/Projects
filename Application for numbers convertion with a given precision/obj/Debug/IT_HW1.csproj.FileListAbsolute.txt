@@ -1,0 +1,10 @@
+C:\Users\leope\source\repos\IT_HW1\bin\Debug\IT_HW1.exe.config
+C:\Users\leope\source\repos\IT_HW1\bin\Debug\IT_HW1.exe
+C:\Users\leope\source\repos\IT_HW1\bin\Debug\IT_HW1.pdb
+C:\Users\leope\source\repos\IT_HW1\obj\Debug\IT_HW1.csproj.AssemblyReference.cache
+C:\Users\leope\source\repos\IT_HW1\obj\Debug\IT_HW1.Properties.Resources.resources
+C:\Users\leope\source\repos\IT_HW1\obj\Debug\IT_HW1.csproj.GenerateResource.cache
+C:\Users\leope\source\repos\IT_HW1\obj\Debug\IT_HW1.csproj.CoreCompileInputs.cache
+C:\Users\leope\source\repos\IT_HW1\obj\Debug\IT_HW1.exe
+C:\Users\leope\source\repos\IT_HW1\obj\Debug\IT_HW1.pdb
+C:\Users\leope\source\repos\IT_HW1\obj\Debug\IT_HW1.Converter.resources
