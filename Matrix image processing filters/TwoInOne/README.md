@@ -1,0 +1,2 @@
+The program "merges" two images in certain proportions (fractions of the unit, which is taken as 100%). For example, if the "contribution" of the first image to the new one is 0.4, then the "contribution" of the second is 1-0.4=0.6. In general, the "contribution" of the first image is denoted by 𝛼, and the "contribution" of the second is (1−𝛼). Then the desired image can be written in the following form:
+𝐼𝑚𝑎𝑔𝑒𝑛𝑒𝑤=𝛼∙𝐼𝑚𝑎𝑔𝑒1+(1−𝛼)𝐼𝑚𝑎𝑔𝑒2.
